@@ -1,0 +1,4 @@
+name: AntiVPN
+author: twig
+main: de.twig.antivpn.bungee.AntiVPN
+version: 1.0-SNAPSHOT

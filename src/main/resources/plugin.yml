@@ -1,0 +1,7 @@
+name: AntiVPN
+version: '${project.version}'
+main: de.twig.antivpn.spigot.AntiVPN
+load: STARTUP
+author: twig
+prefix: AntiVPN
+api-version: 1.13
